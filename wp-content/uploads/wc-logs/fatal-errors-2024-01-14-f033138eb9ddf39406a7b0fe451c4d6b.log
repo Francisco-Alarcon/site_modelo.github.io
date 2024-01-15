@@ -1,0 +1,2 @@
+2024-01-14T00:07:34+00:00 CRITICAL Cannot declare class MercadoPago\Woocommerce\Autoloader, because the name is already in use, em C:\xampp\htdocs\site_alan\wp-content\plugins\cart-woocommerce-main\src\Autoloader.php, na linha 9
+
